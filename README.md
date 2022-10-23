@@ -1,3 +1,3 @@
 # Ex-EMTO
 
-# Explicit Efficient Multiscale Topology Optimization
+Explicit Efficient Multiscale Topology Optimization
